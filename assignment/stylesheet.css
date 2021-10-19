@@ -1,0 +1,16 @@
+.center {
+    background-color: rgb(4, 55, 150);
+    text-align: center;
+    color: white;
+}
+
+.info {
+    padding: 1em;
+    background-color: lightgray;
+
+}
+
+body {
+    margin: 0;
+    background-image: url("record.png");
+}
